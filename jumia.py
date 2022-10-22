@@ -23,4 +23,4 @@ if int(price) < 10000:
                                 f" purchase  https://www.jumia.com.ng/freepods-2-2baba-version-true-wireless-earbuds-ora"
                                 f"imo-mpg1634823.html")
 else:
-    print('sike')
+    pass
